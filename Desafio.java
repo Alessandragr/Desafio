@@ -42,5 +42,4 @@ tatic void escolha() {
 														                break;
 																        }
 			    }
-}
-
+} 
