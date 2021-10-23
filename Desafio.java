@@ -29,4 +29,18 @@ public class Desafio {
 			            return texto;
 			        }
 			}
+tatic void escolha() {
+	        int opcao = ler_numero("Insira a sua opção: ");
+		        switch (opcao) {
+				            case 1:
+						                    String nome = ler_texto("Insira seu nome: ");
+								                    System.out.printf("%s, você cadastrou seu nome com sucesso!", nome);
+										                    break;
+												                case 2:
+												                break;
+														            default:
+														                break;
+																        }
+			    }
 }
+
