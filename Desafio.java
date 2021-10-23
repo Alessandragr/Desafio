@@ -14,5 +14,9 @@ public class Desafio {
 				        System.out.println(mensagem);
 					        int numero = Integer.parseInt(scan.nextLine());
 						        return numero;
-							    }
+							    c static void menu() {
+							            System.out.println("Bem-vindo(a) ao repositório Alessandra Ribeiro");
+							            System.out.println("Escolha uma opção:\n 1 - para cadastrar seu nome\n2 - para sair\n");
+							            escolha();
+							        }}
 }
